@@ -1,0 +1,19 @@
+{
+    "name": "irek/php-project-lvl1",
+	"bin": ["bin/brain-games"],
+    "description": "php-project-lvl1",
+    "authors": [
+        {
+            "name": "Irek.G",
+            "email": "azpirin123z@yandex.ru"
+        }
+    ],
+    
+
+    "require": {
+	"php": "^7.2",
+        "vendor/package": "1.3.2",
+        "vendor/package2": "1.*",
+        "vendor/package3": "^2.0.3"
+    }
+}
