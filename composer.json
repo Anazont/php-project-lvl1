@@ -1,5 +1,6 @@
 {
     "name": "irek/php-project-lvl1",
+	"bin": ["bin/brain-games"],
     "description": "php-project-lvl1",
     "authors": [
         {
