@@ -1,0 +1,11 @@
+{
+    "name": "irek/php-project-lvl1",
+    "description": "php-project-lvl1",
+    "authors": [
+        {
+            "name": "Irek.G",
+            "email": "azpirin123z@yandex.ru"
+        }
+    ],
+    "require": {}
+}
