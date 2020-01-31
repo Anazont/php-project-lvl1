@@ -15,6 +15,7 @@
         "vendor/package": "1.3.2",
         "vendor/package2": "1.*",
         "vendor/package3": "^2.0.3"
+	"php-project-lvl1/php-project-lvl1": "dev-bugfix as 1.0.x-dev"  
     }
 }
 
