@@ -1,4 +1,4 @@
-
+#!/home/irek/php-project-lvl1/bin/env php
 
 <?php
 
@@ -13,4 +13,4 @@ if (file_exists($autoloadPath1)) {
 use function Src\Cli\run;
 
 run();    
-#!/home/irek/php-project-lvl1/bin/env php
+
