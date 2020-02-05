@@ -1,4 +1,10 @@
 #!/home/irek/php-project-lvl1/bin/env php
+<?php
 
-Hello irek
+namespace BrainGames;
 
+class Cli {
+}
+
+var_dump(class_exists('BrainGames\Cli')); // bool(false)
+var_dump(class_exists('home\irek\php-project-lvl1\src\Cli')); // bool(true)
