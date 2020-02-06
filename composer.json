@@ -1,7 +1,12 @@
 {
     "name": "anazont/php-project-lvl1",
-    "bin": ["bin/brain-games"],
     "type": "library",
+    "autoload": {
+        "files": [
+            "src/Cli.php"
+        ]
+    },
+    "bin": ["bin/brain-games"],
     "description": "php-project-lvl1",
     "authors": [
         {
@@ -10,6 +15,8 @@
         }
     ],
     "licence": "MIT",
+	
+	
     "require": {
         "php": ">=5.3.0",
         "wp-cli/php-cli-tools": "^0.11"

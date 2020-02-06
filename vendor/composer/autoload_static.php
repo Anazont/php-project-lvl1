@@ -8,6 +8,7 @@ class ComposerStaticInit2636e72038eec8ff8a14e724dde122c6
 {
     public static $files = array (
         'be01b9b16925dcb22165c40b46681ac6' => __DIR__ . '/..' . '/wp-cli/php-cli-tools/lib/cli/cli.php',
+        '113dde06f802987e950d857215a889ad' => __DIR__ . '/../..' . '/src/Cli.php',
     );
 
     public static $prefixesPsr0 = array (

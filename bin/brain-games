@@ -1,8 +1,8 @@
-#!/home/irek/php-project-lvl1/bin/env php
+#!/usr/bin/env php
 
 <?php
 
-use function \php-project-lvl1\bin\Cli\run;
+#require __DIR__ . '/../vendor/autoload.php';
 
 $autoloadPath1 = __DIR__ . '/../../../autoload.php';
 $autoloadPath2 = __DIR__ . '/../vendor/autoload.php';
@@ -12,6 +12,6 @@ if (file_exists($autoloadPath1)) {
     require_once $autoloadPath2;
 }
 
+use function BrainGames\Cli\run;
 
-run();    
-
+run();
