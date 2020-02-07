@@ -5,7 +5,4 @@ php:
 install:
   - make install
 
-script: make lint test
-
-after_script:
-  - ./cc-test-reporter after-build --exit-code $TRAVIS_TEST_RESULT
+script: make lint
