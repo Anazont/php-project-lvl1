@@ -14,7 +14,7 @@
             "email": "azpirin123z@yandex.ru"
         }
     ],
-    "licence": "MIT",
+    
     "scripts": {
     "phpcs": "phpcs"
     },
