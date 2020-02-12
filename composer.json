@@ -3,10 +3,11 @@
     "type": "library",
     "autoload": {
         "files": [
-            "src/Cli.php"
+            "src/Cli.php",
+	    "src/games/even.php"
         ]
     },
-    "bin": ["bin/brain-games"],
+    "bin": ["bin/brain-even"],
     "description": "php-project-lvl1",
     "authors": [
         {
