@@ -14,3 +14,6 @@
 Третья игра, необходимо найти наибольший делитель.
 [![asciicast](https://asciinema.org/a/302041.svg)](https://asciinema.org/a/302041)
 
+Четвертая игра, необходимо найти значение пропущенного числа в арифметической прогрессии
+[![asciicast](https://asciinema.org/a/302052.svg)](https://asciinema.org/a/302052)
+
