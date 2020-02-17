@@ -7,3 +7,6 @@
 
 В первой игре необходимо ответить на вопрос какое число передано. 
 [![asciicast](https://asciinema.org/a/RDmEEeIi94DZXCKSjbsBsNWC6.svg)](https://asciinema.org/a/RDmEEeIi94DZXCKSjbsBsNWC6)
+
+Вторая игра brain-calc
+[![asciicast](https://asciinema.org/a/302003.svg)](https://asciinema.org/a/302003) 
