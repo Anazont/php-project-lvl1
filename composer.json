@@ -5,11 +5,13 @@
         "files": [
             "src/Cli.php",
 	    "src/games/even.php",
-	    "src/games/calc.php"
+	    "src/games/calc.php",
+	    "src/games/gcd.php"
         ]
     },
     "bin": ["bin/brain-even",
-            "bin/brain-calc"
+            "bin/brain-calc",
+	    "bin/brain-gcd"
     ],
     "description": "php-project-lvl1",
     "authors": [

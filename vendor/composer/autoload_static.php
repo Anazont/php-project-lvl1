@@ -11,6 +11,7 @@ class ComposerStaticInit2636e72038eec8ff8a14e724dde122c6
         '113dde06f802987e950d857215a889ad' => __DIR__ . '/../..' . '/src/Cli.php',
         '51b69686eb7879508a4eb96f61bd48c6' => __DIR__ . '/../..' . '/src/games/even.php',
         '151260fd83fccef9622217e38f587346' => __DIR__ . '/../..' . '/src/games/calc.php',
+        'db5ac61f9ad41d286b9d823a1cd57a55' => __DIR__ . '/../..' . '/src/games/gcd.php',
     );
 
     public static $prefixesPsr0 = array (

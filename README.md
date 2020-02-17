@@ -10,3 +10,7 @@
 
 Вторая игра brain-calc
 [![asciicast](https://asciinema.org/a/302003.svg)](https://asciinema.org/a/302003) 
+
+Третья игра, необходимо найти наибольший делитель.
+[![asciicast](https://asciinema.org/a/302041.svg)](https://asciinema.org/a/302041)
+
