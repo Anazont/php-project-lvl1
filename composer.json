@@ -7,7 +7,9 @@
 	    "src/games/even.php"
         ]
     },
-    "bin": ["bin/brain-even"],
+    "bin": ["bin/brain-even",
+        "bin/brain-calc"
+    ],
     "description": "php-project-lvl1",
     "authors": [
         {
