@@ -26,7 +26,7 @@ function run($getGameData, $description)
         $currentAnswer = $gameData['currentAnswer'];
         $userAnswer = prompt("Question: {$question}");
         if ($userAnswer !== $currentAnswer) {
-            line(" '%s' is wrong answer ;(.", $userAnswer);
+            line(" '%s' is wrong answer", $userAnswer);
             line("Correct answer was '%s'.Let's try again, %s!", $currentAnswer, $name);
             exit;
         } else {
