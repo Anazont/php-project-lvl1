@@ -1,6 +1,6 @@
 <?php
 
-namespace BrainGames\Games\Progression;
+namespace BrainGames\games\progression;
 
 use function BrainGames\Cli\run;
 

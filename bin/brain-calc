@@ -2,7 +2,7 @@
 
 <?php
 
-use function BrainGames\Games\Calc\runCalc;
+use function BrainGames\games\calc\runCalc;
 
 $loadPath1 = __DIR__ . '/../../../autoload.php';
 $loadPath2 = __DIR__ . '/../vendor/autoload.php';

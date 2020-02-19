@@ -2,7 +2,7 @@
 
 
 
-namespace BrainGames\Games\Even;
+namespace BrainGames\games\even;
 
 use function BrainGames\Cli\run;
 

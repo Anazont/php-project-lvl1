@@ -2,7 +2,7 @@
 
 <?php
 
-use function BrainGames\Games\Gcd\runGcd;
+use function BrainGames\games\gcd\runGcd;
 
 $loadPath1 = __DIR__ . '/../../../autoload.php';
 $loadPath2 = __DIR__ . '/../vendor/autoload.php';
